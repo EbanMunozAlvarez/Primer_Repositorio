@@ -3,8 +3,9 @@ import os
 from tkinter import ttk
 from PIL import Image, ImageTk
 
-#Ejercicio 03
-#Creado por NOMBRE 
+#Eban muñoz Alvarez
+#Programacion3°B
+#programa que muestra la imagen seleccionada
 
 #La sig linea obtiene donde están los archivos del proyecto
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -65,6 +66,7 @@ ventana.mainloop()
 
 
     
+
 
 
 
