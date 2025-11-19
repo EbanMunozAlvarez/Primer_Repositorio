@@ -1,2 +1,4 @@
 # Primer_Repositorio
-Primer repositorio de practica
+Este es mi primer repositorio de practica
+Eban muñoz alvarez
+Programacion 3°B
